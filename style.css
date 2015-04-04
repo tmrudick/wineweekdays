@@ -1,0 +1,19 @@
+html, body {
+    height:100%;
+    text-align:center;
+    font-family: verdana;
+}
+
+
+h1 {
+    font-size:36pt;
+    color:#660033;
+}
+
+p {
+    font-size:24pt;
+}
+
+#nextday {
+    margin-top: 200px;
+}
